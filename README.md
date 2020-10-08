@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I have some cool projects I'm working on
+
+- Odin - a simple ORM useful for quickly creating a persistence layer for small projects
+- Hecate - A tool to quickly and easily intercept rest requests, and 
+- Melinoe - A testing framework for rest/
 <!--
 **Goodie01/Goodie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
