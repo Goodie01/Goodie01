@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I have some cool projects I'm working on
+I have some funky personal projects I'm working on
 
 - Odin - a simple ORM useful for quickly creating a persistence layer for small projects
 - Hecate - A tool to quickly and easily intercept rest requests, and 
-- Melinoe - A testing framework for rest/
+- Melinoe - A testing framework for selenium, rest, and using hecate nativly too
+
+Pronouns: Hi/Him
 <!--
 **Goodie01/Goodie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
