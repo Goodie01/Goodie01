@@ -6,7 +6,7 @@ I have some funky personal projects I'm working on
 - Hecate - A tool to quickly and easily intercept rest requests, and 
 - Melinoe - A testing framework for selenium, rest, and using hecate nativly too
 
-Pronouns: Hi/Him
+Pronouns: He/Him
 <!--
 **Goodie01/Goodie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
