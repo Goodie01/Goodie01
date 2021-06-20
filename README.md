@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Java Software Developer from Wellington, New Zealand. I occasionally call myself a Code Exorcist, or Zoo Keeper, for fun.
+I am a Java Software Developer from Wellington, New Zealand.
 
 I have some funky personal projects I'm working on. These are more for my experience building, than real use.
 
